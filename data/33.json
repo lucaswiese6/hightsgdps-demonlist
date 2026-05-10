@@ -1,0 +1,29 @@
+{
+    "id": 33,
+    "name": "electrodomestico",
+    "author": "AleFunky",
+    "creators": ["AleFunky"],
+    "verifier": "Jayayah",
+    "verification": "https://youtu.be/kafV9iX5_Ss",
+    "percentToQualify": 68,
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "SethTheGamr",
+            "link": "",
+            "percent": 77,
+            "hz": 0
+        }
+    ]
+}
