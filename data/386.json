@@ -1,0 +1,18 @@
+{
+    "id": 386,
+    "name": "yay top 1",
+    "author": "goodlevelmaker",
+    "creators": ["goodlevelmaker"],
+    "verifier": "goodlevelmaker",
+    "verification": "https://youtu.be/WXIgAbB8I34",
+    "percentToQualify": 40,
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
+
