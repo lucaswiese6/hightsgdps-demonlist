@@ -10,7 +10,8 @@
         {
             "user": "OzymandiasGD",
             "link": "",
-            "percent": 100
+            "percent": 100,
+            "hz": 0
         }
     ]
 }
