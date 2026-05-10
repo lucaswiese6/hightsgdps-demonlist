@@ -1,0 +1,23 @@
+{
+    "id": 453,
+    "name": "Ultraviolet Surge",
+    "author": "-",
+    "creators": ["HealerGD"],
+    "verifier": "HealerGD",
+    "verification": "",
+    "percentToQualify": 65,
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 69,
+            "hz": 288
+        }
+    ]
+}
