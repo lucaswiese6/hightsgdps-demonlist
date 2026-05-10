@@ -1,0 +1,17 @@
+{
+    "id": 1023,
+    "name": "nature of death",
+    "author": "Ziney",
+    "creators": ["Ziney"],
+    "verifier": "Ziney",
+    "verification": "https://www.youtube.com/watch?v=FwmO97rDUq0",
+    "percentToQualify": 77,
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
