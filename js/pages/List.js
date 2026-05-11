@@ -100,10 +100,25 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        In order to get your achivement on the list, you need to provide video proof for any level that is Hard Demon or higher! This rule came onto effect by 15/05/2026 (DD/MM/YYYY).
                     </p>
                     <p>
-                        67
+                        To get a new level onto the Demonlist, it needs to have a verification video if the level is Insane Demon or higher! Ontop of that, a player IN Hights GDPS needs to have beaten said level, otherwise it won't have a Hights GDPS-valid Verification!
+                    </p>
+                    <p>
+                        You are allowed to set FPS bypass to any value you want, however TPS bypass is completely forbidden!
+                    </p>
+                    <p>
+                        We will accept runs that use Noclip, aslong as you have an Accuracy of 100.00% AND 0 Noclip Deaths!
+                    </p>
+                    <p>
+                        Lastly, your Cheat Indicator must be visible AT ALL TIMES!
+                    </p>
+                    <p>
+                        
+                    </p>
+                    <p>
+                        - Gamer Boy
                     </p>
                 </div>
             </div>
