@@ -15,9 +15,14 @@
         "link": "https://www.youtube.com/@Healer_GD"
     },
     {
+        "role": "helper",
+        "name": "OzymandiasGD",
+        "link": "https://www.youtube.com/@OzyVA"
+    },
+    {
         "role": "trial",
         "name": "---",
-        "link": "https://www.youtube.com/@---"
+        "link": "https://www.youtube.com/@"
     },
     {
         "role": "dev",
