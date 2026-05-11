@@ -3,10 +3,16 @@
     "name": "waves",
     "author": "fom",
     "creators": ["fom"],
-    "verifier": "EthanDemon",
+    "verifier": "OzymandiasGD",
     "verification": "",
     "percentToQualify": 57,
     "records": [
+        {
+            "user": "EthamDemon",
+            "link": "",
+            "percent": 100,
+            "hz": 480
+        },
         {
             "user": "fom",
             "link": "",
