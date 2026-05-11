@@ -1,17 +1,35 @@
 {
     "id":1303,
     "name": "Seashore",
-    "author": "Jellybees",
-    "creators": ["Jellybees"],
-    "verifier": "Jellybees",
+    "author": "jellybees",
+    "creators": ["jellybees"],
+    "verifier": "jellybees",
     "verification": "https://www.youtube.com/watch?v=Y45MOCPuhz8",
-    "percentToQualify": 66,
+    "percentToQualify": 64,
     "records": [
         {
-            "user": "",
+            "user": "OzymandiasGD",
             "link": "",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "Rhyy",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 90,
+            "hz": 288
+        },
+        {
+            "user": "Anaban",
+            "link": "",
+            "percent": 65,
+            "hz": 60
         }
     ]
 }
