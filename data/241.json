@@ -1,0 +1,22 @@
+{
+    "id": 241,
+    "name": "10 DEAD",
+    "author": "Anyway",
+    "creators": ["Anyway"],
+    "verifier": "OzymandiasGD",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": 50,
+        {
+            "user": "Gamer Boy",
+            "link": "https://youtu.be/KiRUt7JA8Wc",
+            "percent": 0,
+            "hz": 407
+        },
+        {
+            "user": "Orox",
+            "link": "https://youtu.be/y2w3qO6mSQw",
+            "percent": 78,
+            "hz": 60
+        }
+    ]
+}
