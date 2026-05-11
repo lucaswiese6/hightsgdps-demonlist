@@ -1,0 +1,18 @@
+{
+    "id":17,
+    "name": "Wave Square",
+    "author": "Gamer Boy",
+    "creators": ["Gamer Boy"],
+    "verifier": "Gamer Boy",
+    "verification": "https://www.youtube.com/watch?v=06e8DzXfgWc",
+    "percentToQualify": 42,
+    "records": [
+        {
+            "user": "",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
+
