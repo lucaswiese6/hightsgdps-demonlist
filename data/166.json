@@ -1,0 +1,59 @@
+{
+    "id": 166,
+    "name": "Wave Of The Holyday",
+    "author": "EthanDemon",
+    "creators": ["EthanDemon"],
+    "verifier": "EthanDemon",
+    "verification": "https://youtu.be/b7gopppVYY4",
+    "percentToQualify": 55,
+    "records": [
+        {
+            "user": "erer",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "MrMattizz",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "goodlevelmaker",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Jayayah",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "ElytraBlox",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "rylanmmb",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 407
+        },
+    ]
+}
