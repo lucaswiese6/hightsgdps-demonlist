@@ -3,15 +3,9 @@
     "name": "SuperSonic Circles Rebirth",
     "author": "SigmaGuttEnToTre",
     "creators": ["SigmaGuttEnToTre", "AmethystGD"],
-    "verifier": "???",
+    "verifier": "OzymandiasGD",
     "verification": "https://www.youtube.com/watch?v=cP2IuQtR8Eo",
     "percentToQualify": 68,
     "records": [
-        {
-            "user": "OzymandiasGD",
-            "link": "",
-            "percent": 100,
-            "hz": 300
-        }
     ]
 }
