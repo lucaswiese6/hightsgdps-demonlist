@@ -1,0 +1,35 @@
+{
+    "id": 360,
+    "name": "SuperSonic Circles",
+    "author": "SigmaGuttEnToTre",
+    "creators": ["SigmaGuttEnToTre", "AmethystGD"],
+    "verifier": "SethTheGamr",
+    "verification": "",
+    "percentToQualify": 65,
+    "records": [
+        {
+            "user": "HealerGD",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Jayayah",
+            "link": "https://www.youtube.com/watch?v=Xcem5AcZE1g",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 407
+        },
+        {
+            "user": "goodlevelmaker",
+            "link": "",
+            "percent": 79,
+            "hz": 0
+        }
+    ]
+}
