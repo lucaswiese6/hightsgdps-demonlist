@@ -5,13 +5,25 @@
     "creators": ["AVA"],
     "verifier": "AVA",
     "verification": "https://youtu.be/GwFdushvnA8?si=uu3xFZeONouljebF",
-    "percentToQualify": 30,
+    "percentToQualify": 47,
     "records": [
         {
-            "user": "",
+            "user": "OzymandiasGD",
             "link": "",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "goodlevelmaker",
+            "link": "",
+            "percent": 59,
+            "hz": 0
         }
     ]
 }
