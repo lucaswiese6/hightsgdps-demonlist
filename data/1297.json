@@ -1,0 +1,18 @@
+{
+    "id": 1297,
+    "name": "Conquerclysm",
+    "author": "Gamer Boy",
+    "creators": ["Gamer Boy"],
+    "verifier": "Gamer Boy",
+    "verification": "https://youtu.be/qK8WuWBIazA",
+    "percentToQualify": 58,
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
+
