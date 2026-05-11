@@ -103,7 +103,7 @@ export default {
                         In order to get your achivement on the list, you need to provide video proof for any level that is Hard Demon or higher! This rule came onto effect by 15/05/2026 (DD/MM/YYYY).
                     </p>
                     <p>
-                        To get a new level onto the Demonlist, it needs to have a verification video if the level is Hard Demon or higher! Ontop of that, a player IN Hights GDPS needs to have beaten said level, otherwise it won't have a Hights GDPS-valid Verification!
+                        To get a new level onto the Demonlist, it needs to have a verification video if the level is 67 Demon or higher! Ontop of that, a player IN Hights GDPS needs to have beaten said level, otherwise it won't have a Hights GDPS-valid Verification!
                     </p>
                     <p>
                         You are allowed to set FPS bypass to any value you want, however TPS bypass is completely forbidden!
