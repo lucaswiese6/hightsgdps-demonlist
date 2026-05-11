@@ -3,7 +3,7 @@
     "name": "waves",
     "author": "fom",
     "creators": ["fom"],
-    "verifier": "WthanDemon",
+    "verifier": "EthanDemon",
     "verification": "",
     "percentToQualify": 57,
     "records": [
@@ -17,7 +17,7 @@
             "user": "Gamer Boy",
             "link": "",
             "percent": 82,
-            "hz": 0
+            "hz": 407
         }
     ]
 }
