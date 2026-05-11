@@ -1,0 +1,17 @@
+{
+    "id": 1115,
+    "name": "UFO Vanity",
+    "author": "AVA",
+    "creators": ["AVA"],
+    "verifier": "AVA",
+    "verification": "https://youtu.be/GwFdushvnA8?si=uu3xFZeONouljebF",
+    "percentToQualify": 30,
+    "records": [
+        {
+            "user": "",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
