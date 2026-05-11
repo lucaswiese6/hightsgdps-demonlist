@@ -1,0 +1,17 @@
+{
+    "id": 1579,
+    "name": "A House of Death",
+    "author": "Anaban",
+    "creators": ["Anaban"],
+    "verifier": "Gamer Boy",
+    "verification": "https://www.youtube.com/watch?v=zkeUwk08zwQ",
+    "percentToQualify": 60,
+    "records": [
+        {
+            "user": "ColaMutti",
+            "link": "",
+            "percent": 70,
+            "hz": 200
+        }
+    ]
+}
