@@ -1,0 +1,17 @@
+{
+    "id": 1585,
+    "name": "kiss mart again",
+    "author": "EthanDemon",
+    "creators": ["EthanDemon"],
+    "verifier": "EthanDemon",
+    "verification": "",
+    "percentToQualify": 72,
+    "records": [
+        {
+            "user": "mart123",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
