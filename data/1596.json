@@ -8,10 +8,16 @@
     "percentToQualify": 40,
     "records": [
         {
-            "user": "",
+            "user": "Gamer Boy",
             "link": "",
             "percent": 100,
-            "hz": 300
+            "hz": 288
+        },
+        {
+            "user": "Fat",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
