@@ -1,17 +1,17 @@
 {
-    "id":526,
+    "id": 526,
     "name": "Toe 3",
     "author": "SigmaGuttEnToTre",
-    "creators": ["SigmaGuttEnToTre"],
+    "creators": ["SigmaGuttEnToTre", "AmethystGD"],
     "verifier": "SigmaGuttEnToTre",
     "verification": "https://www.youtube.com/watch?v=Nc4Jqmqwih0",
-    "percentToQualify": 37,
+    "percentToQualify": 61,
     "records": [
         {
-            "user": "",
+            "user": "Gamer Boy",
             "link": "",
-            "percent": 100,
-            "hz": 300
+            "percent": 95,
+            "hz": 288
         }
     ]
 }
