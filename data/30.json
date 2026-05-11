@@ -1,0 +1,18 @@
+{
+    "id":30,
+    "name": "cant put apostrophe",
+    "author": "AleFunky",
+    "creators": ["AleFunky"],
+    "verifier": "",
+    "verification": "",
+    "percentToQualify": 52,
+    "records": [
+        {
+            "user": "",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
+
