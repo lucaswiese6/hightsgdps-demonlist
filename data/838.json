@@ -1,0 +1,23 @@
+{
+    "id": 838,
+    "name": "waves",
+    "author": "fom",
+    "creators": ["fom"],
+    "verifier": "WthanDemon",
+    "verification": "",
+    "percentToQualify": 57,
+    "records": [
+        {
+            "user": "fom",
+            "link": "",
+            "percent": 83,
+            "hz": 0
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 82,
+            "hz": 0
+        }
+    ]
+}
