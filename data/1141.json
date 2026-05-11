@@ -1,0 +1,17 @@
+{
+    "id": 1141,
+    "name": "HELLSTAIRS",
+    "author": "Gamer Boy",
+    "creators": ["Gamer Boy"],
+    "verifier": "Rhyy",
+    "verification": "",
+    "percentToQualify": 56,
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
