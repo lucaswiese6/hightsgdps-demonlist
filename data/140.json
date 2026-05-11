@@ -1,0 +1,29 @@
+{
+    "id": 140,
+    "name": "Friday Night Lights",
+    "author": "HealerGD",
+    "creators": ["HealerGD"],
+    "verifier": "???",
+    "verification": "https://www.youtube.com/watch?v=BNpnPnwSQZg",
+    "percentToQualify": 69,
+    "records": [
+        {
+            "user": "z4uBaKa",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 407
+        },
+        {
+            "user": "rylanmmb",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
