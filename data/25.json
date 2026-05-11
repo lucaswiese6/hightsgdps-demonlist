@@ -1,0 +1,18 @@
+{
+    "id":25,
+    "name": "wavedash",
+    "author": "AleFunky",
+    "creators": ["AleFunky"],
+    "verifier": "",
+    "verification": "",
+    "percentToQualify": 43,
+    "records": [
+        {
+            "user": "",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
+
