@@ -5,13 +5,13 @@
     "creators": ["Gamer Boy"],
     "verifier": "Gamer Boy",
     "verification": "https://www.youtube.com/watch?v=VdCfRSwkMjY",
-    "percentToQualify": 61,
+    "percentToQualify": 55,
     "records": [
         {
-            "user": "",
+            "user": "Orox",
             "link": "",
             "percent": 100,
-            "hz": 300
+            "hz": 60
         }
     ]
 }
