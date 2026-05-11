@@ -1,0 +1,17 @@
+{
+    "id": 682,
+    "name": "average top 1",
+    "author": "CoolGuy",
+    "creators": ["CoolGuy"],
+    "verifier": "CoolGuy",
+    "verification": "https://www.youtube.com/watch?v=GVwGtw4D4Ps",
+    "percentToQualify": 56,
+    "records": [
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 407
+        }
+    ]
+}
