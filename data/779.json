@@ -1,0 +1,18 @@
+{
+    "id":779,
+    "name": "Singularity",
+    "author": "HealerGD",
+    "creators": ["HealerGD"],
+    "verifier": "HealerGD",
+    "verification": "https://www.youtube.com/watch?v=c7R6qdXXToY",
+    "percentToQualify": 56,
+    "records": [
+        {
+            "user": "",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
+
