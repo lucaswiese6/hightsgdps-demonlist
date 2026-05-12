@@ -3,12 +3,18 @@
     "name": "SUHFLEGEFEU",
     "author": "glodeebo",
     "creators": ["glodeebo"],
-    "verifier": "",
+    "verifier": "Gamer Boy",
     "verification": "",
     "percentToQualify": 69,
     "records": [
         {
-            "user": "",
+            "user": "Jayayah",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "OzymandiasGD",
             "link": "",
             "percent": 100,
             "hz": 300
