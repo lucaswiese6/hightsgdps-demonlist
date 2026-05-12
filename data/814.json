@@ -3,10 +3,16 @@
     "name": "clutterfuck",
     "author": "Gamer Boy",
     "creators": ["Gamer Boy"],
-    "verifier": "",
+    "verifier": "Toastisss",
     "verification": "",
     "percentToQualify": 68,
     "records": [
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 68,
+            "hz": 407
+        },
     ]
 }
 
