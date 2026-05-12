@@ -1,0 +1,17 @@
+{
+    "id": 1613,
+    "name": "Whisper Circles",
+    "author": "HealerGD",
+    "creators": ["HealerGD"],
+    "verifier": "HealerGD",
+    "verification": "https://www.youtube.com/watch?v=TdHm4K9BLtk",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
