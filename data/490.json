@@ -2,10 +2,10 @@
     "id":490,
     "name": "Drumstep",
     "author": "SigmaGuttEnToTre",
-    "creators": ["SigmaGuttEnToTre"],
-    "verifier": "",
+    "creators": ["SigmaGuttEnToTre", "AmethystGD"],
+    "verifier": "SigmaGuttEnToTre",
     "verification": "",
-    "percentToQualify": 61,
+    "percentToQualify": 78,
     "records": [
         {
             "user": "",
