@@ -3,16 +3,10 @@
     "name": "wavedash",
     "author": "AleFunky",
     "creators": ["AleFunky"],
-    "verifier": "",
+    "verifier": "Gamer Boy",
     "verification": "",
-    "percentToQualify": 43,
+    "percentToQualify": 36,
     "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": 100,
-            "hz": 300
-        }
     ]
 }
 
