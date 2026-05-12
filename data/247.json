@@ -3,15 +3,27 @@
     "name": "jolly xmas",
     "author": "EthanDemon",
     "creators": ["EthanDemon"],
-    "verifier": "",
+    "verifier": "EthanDemon",
     "verification": "",
-    "percentToQualify": 100,
+    "percentToQualify": 66,
     "records": [
         {
-            "user": "",
+            "user": "goodlevelmaker",
             "link": "",
             "percent": 100,
-            "hz": 300
+            "hz": 480
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 407
+        },
+        {
+            "user": "Orox",
+            "link": "",
+            "percent": 75,
+            "hz": 60
         }
     ]
 }
