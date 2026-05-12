@@ -3,15 +3,15 @@
     "name": "Brainiac Maniac",
     "author": "UniqueColor",
     "creators": ["UniqueColor"],
-    "verifier": "",
+    "verifier": "UniqueColor",
     "verification": "",
-    "percentToQualify": 56,
+    "percentToQualify": 69,
     "records": [
         {
-            "user": "",
+            "user": "Gamer Boy",
             "link": "",
             "percent": 100,
-            "hz": 300
+            "hz": 288
         }
     ]
 }
