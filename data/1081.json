@@ -1,0 +1,17 @@
+{
+    "id": 1081,
+    "name": "Haunted Woods",
+    "author": "Fat",
+    "creators": ["Fat"],
+    "verifier": "Toastisss",
+    "verification": "https://youtu.be/1_sVeCaRRG0",
+    "percentToQualify": 55,
+    "records": [
+        {
+            "user": "Rhyy",
+            "link": "+",
+            "percent": 100,
+            "hz": 140
+        },
+    ]
+}
