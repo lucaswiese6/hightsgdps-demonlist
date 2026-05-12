@@ -7,6 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=xnc54g8TxwQ",
     "percentToQualify": 70,
     "records": [
+        {
+            "user": "uhsplash",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
     ]
 }
 
