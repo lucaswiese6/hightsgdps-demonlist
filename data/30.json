@@ -3,12 +3,12 @@
     "name": "cant put apostrophe",
     "author": "AleFunky",
     "creators": ["AleFunky"],
-    "verifier": "",
+    "verifier": "AleFunky",
     "verification": "",
-    "percentToQualify": 52,
+    "percentToQualify": 68,
     "records": [
         {
-            "user": "",
+            "user": "OzymandiasGD",
             "link": "",
             "percent": 100,
             "hz": 300
