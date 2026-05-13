@@ -30,6 +30,12 @@
             "link": "",
             "percent": 79,
             "hz": 480
+        },
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
         }
     ]
 }
