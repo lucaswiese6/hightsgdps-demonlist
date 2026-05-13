@@ -8,6 +8,12 @@
     "percentToQualify": 70,
     "records": [
         {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        },
+        {
             "user": "uhsplash",
             "link": "",
             "percent": 100,
