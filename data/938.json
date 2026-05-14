@@ -1,0 +1,29 @@
+{
+    "id": 938,
+    "name": "Peaceful Wave",
+    "author": "Orox",
+    "creators": ["Orox", "Gamer Boy", "-"],
+    "verifier": "Orox",
+    "verification": "https://youtu.be/z6LIfqWQ4LM",
+    "percentToQualify": 91,
+    "records": [
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 407
+        },
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "EthanDemon",
+            "link": "",
+            "percent": 99,
+            "hz": 480
+        }
+    ]
+}
