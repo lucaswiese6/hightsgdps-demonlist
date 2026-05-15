@@ -1,0 +1,23 @@
+{
+    "id": 1685,
+    "name": "Climax",
+    "author": "AmethystGD",
+    "creators": ["AmethystGD"],
+    "verifier": "AmethystGD",
+    "verification": "",
+    "percentToQualify": 56,
+    "records": [
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 407
+        },
+        {
+            "user": "Toastisss",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
