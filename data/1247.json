@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/ADEMUYflvWw",
     "percentToQualify": 66,
     "records": [
+        {
+            "user": "Toastisss",
+            "link": "https://www.youtube.com/watch?v=S8grtPSB4wM",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
