@@ -103,6 +103,9 @@ export default {
                         In order to get your achivement on the list, you need to provide video proof for any level that is Hard Demon or higher! This rule came onto effect by 12/05/2026 (DD/MM/YYYY).
                     </p>
                     <p>
+                        Submit your record in the #submit-your-record channel in the discord server and follow the temple in the pinned Post.
+                    </p>
+                    <p>
                         To get a new level onto the Demonlist, it needs to have a verification video if the level is Hard Demon or higher! Ontop of that, a player IN Hights GDPS needs to have beaten said level, otherwise it won't have a Hights GDPS-valid Verification!
                     </p>
                     <p>
