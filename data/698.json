@@ -3,15 +3,15 @@
     "name": "Peer Gynt",
     "author": "silverspectre",
     "creators": ["silverspectre"],
-    "verifier": "Gamer Boy",
-    "verification": "Gamer Boy",
-    "percentToQualify": 60,
+    "verifier": "silverspectre",
+    "verification": "https://youtu.be/T7tDMs2XbZI?si=eJXqTkBTZ08zoGtJ",
+    "percentToQualify": 70,
     "records": [
         {
-            "user": "",
-            "link": "",
+            "user": "Gamer Boy",
+            "link": "https://youtu.be/T7tDMs2XbZI?si=eJXqTkBTZ08zoGtJ",
             "percent": 100,
-            "hz": 300
+            "hz": 288
         }
     ]
 }
