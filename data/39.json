@@ -1,0 +1,59 @@
+{
+    "id": 39,
+    "name": "Guests wave",
+    "author": "guest670951",
+    "creators": ["guest670951"],
+    "verifier": "guest670951",
+    "verification": "",
+    "percentToQualify": 78,
+    "records": [
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "mart123",
+            "link": "",
+            "percent": 0,
+            "hz": 0
+        },
+        {
+            "user": "MrMattizz",
+            "link": "",
+            "percent": 0,
+            "hz": 0
+        },
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Leo",
+            "link": "",
+            "percent": 0,
+            "hz": 60
+        },
+        {
+            "user": "AmethystGD",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "NijjerNijjer",
+            "link": "",
+            "percent": 87,
+            "hz": 75
+        },
+        {
+            "user": "Anaban",
+            "link": "",
+            "percent": 80,
+            "hz": 60
+        },
+    ]
+}
