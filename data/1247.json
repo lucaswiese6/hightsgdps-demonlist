@@ -3,15 +3,9 @@
     "name": "Beastmode",
     "author": "HealerGD",
     "creators": ["HealerGD"],
-    "verifier": "HealerGD",
-    "verification": "https://youtu.be/ADEMUYflvWw",
+    "verifier": "Toastisss",
+    "verification": "https://www.youtube.com/watch?v=S8grtPSB4wM",
     "percentToQualify": 66,
     "records": [
-        {
-            "user": "Toastisss",
-            "link": "https://www.youtube.com/watch?v=S8grtPSB4wM",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
