@@ -7,5 +7,11 @@
     "verification": "",
     "percentToQualify": 59,
     "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        }
     ]
 }
