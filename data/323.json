@@ -1,17 +1,11 @@
 {
     "id": 323,
-    "name": "Meil Pops",
+    "name": "Miel Pops",
     "author": "EthanDemon",
     "creators": ["EthanDemon"],
-    "verifier": "",
+    "verifier": "EthanDemon",
     "verification": "",
-    "percentToQualify": 53,
+    "percentToQualify": 59,
     "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": 100,
-            "hz": 300
-        }
     ]
 }
