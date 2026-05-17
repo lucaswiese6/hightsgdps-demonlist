@@ -1,0 +1,17 @@
+{
+    "id": 698,
+    "name": "Peer Gynt",
+    "author": "silverspectre",
+    "creators": ["silverspectre"],
+    "verifier": "Gamer Boy",
+    "verification": "Gamer Boy",
+    "percentToQualify": 60,
+    "records": [
+        {
+            "user": "",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
