@@ -3,15 +3,15 @@
     "name": "AchSlauHell",
     "author": "OzymandiasGD",
     "creators": ["OzymandiasGD"],
-    "verifier": "",
+    "verifier": "OzymandiasGD",
     "verification": "",
-    "percentToQualify": 53,
+    "percentToQualify": 67,
     "records": [
         {
-            "user": "",
+            "user": "Gamer Boy",
             "link": "",
-            "percent": 100,
-            "hz": 300
+            "percent": 74,
+            "hz": 288
         }
     ]
 }
