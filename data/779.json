@@ -3,16 +3,10 @@
     "name": "Singularity",
     "author": "HealerGD",
     "creators": ["HealerGD"],
-    "verifier": "HealerGD",
+    "verifier": "OzymandiasGD",
     "verification": "https://www.youtube.com/watch?v=c7R6qdXXToY",
     "percentToQualify": 56,
     "records": [
-        {
-            "user": "OzymandiasGD",
-            "link": "",
-            "percent": 100,
-            "hz": 300
-        },
         {
             "user": "Gamer Boy",
             "link": "",
