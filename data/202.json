@@ -2,13 +2,25 @@
     "id": 202,
     "name": "i use arch btw",
     "author": "guest670951",
-    "creators": ["guest670951"],
-    "verifier": "",
+    "creators": ["guest670951", "kachittuzome"],
+    "verifier": "guest670951",
     "verification": "",
     "percentToQualify": 75,
     "records": [
         {
-            "user": "",
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Orox",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "OzymandiasGD",
             "link": "",
             "percent": 100,
             "hz": 300
