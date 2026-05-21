@@ -3,16 +3,10 @@
     "name": "DANCE FLOOR",
     "author": "fregoli",
     "creators": ["fregoli"],
-    "verifier": "",
+    "verifier": "OzymandiasGD",
     "verification": "",
-    "percentToQualify": 66,
+    "percentToQualify": 81,
     "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": 100,
-            "hz": 300
-        }
     ]
 }
 
