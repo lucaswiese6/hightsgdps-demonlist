@@ -3,16 +3,10 @@
     "name": "Ultraviolet Surge",
     "author": "HealerGD",
     "creators": ["HealerGD"],
-    "verifier": "HealerGD",
+    "verifier": "OzymandiasGD",
     "verification": "https://youtu.be/uTBP74k40_4?feature=shared",
     "percentToQualify": 65,
     "records": [
-        {
-            "user": "OzymandiasGD",
-            "link": "",
-            "percent": 100,
-            "hz": 300
-        },
         {
             "user": "Gamer Boy",
             "link": "",
