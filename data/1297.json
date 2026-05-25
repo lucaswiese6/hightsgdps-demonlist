@@ -12,6 +12,12 @@
             "link": "",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "BurgerFan27",
+            "link": "https://www.youtube.com/watch?v=9xkCJUD4W2w",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
