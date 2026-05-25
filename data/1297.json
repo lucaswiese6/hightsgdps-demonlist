@@ -18,6 +18,12 @@
             "link": "https://www.youtube.com/watch?v=9xkCJUD4W2w",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "Stevie",
+            "link": "https://youtu.be/3y1UxrP3aWA",
+            "percent": 100,
+            "hz": 246
         }
     ]
 }
