@@ -7,5 +7,11 @@
     "verification": "",
     "percentToQualify": 73,
     "records": [
+        {
+            "user": "Stevie",
+            "link": "https://www.youtube.com/watch?v=GN-zhbve3lA",
+            "percent": 100,
+            "hz": 246
+        }
     ]
 }
