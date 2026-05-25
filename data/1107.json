@@ -4,7 +4,7 @@
     "author": "Gamer Boy",
     "creators": ["Gamer Boy"],
     "verifier": "goodlevelmaker",
-    "verification": "",
+    "verification": "https://www.youtube.com/watch?v=kIgOhHM-FgQ",
     "percentToQualify": 53,
     "records": [
         {
@@ -12,6 +12,12 @@
             "link": "",
             "percent": 100,
             "hz": 407
-        }
+        },
+        {
+            "user": "BurgerFan27",
+            "link": "https://www.youtube.com/watch?v=kIgOhHM-FgQ",
+            "percent": 100,
+            "hz": 480
+        },
     ]
 }
