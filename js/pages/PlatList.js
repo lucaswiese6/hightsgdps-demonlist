@@ -100,13 +100,13 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        In order to get your achivement on the list, you need to provide video proof for any level that is Hard Demon or higher! This rule came onto effect by 12/05/2026 (DD/MM/YYYY).
+                        In order to get your achivement on the list, you need to provide video proof for any and all levels! This rule came onto effect by 30/05/2026 (DD/MM/YYYY).
                     </p>
                     <p>
                         Submit your record in the #submit-your-record channel in the discord server and follow the temple in the pinned Post.
                     </p>
                     <p>
-                        To get a new level onto the Demonlist, it needs to have a verification video if the level is Hard Demon or higher! Ontop of that, a player IN Hights GDPS needs to have beaten said level, otherwise it won't have a Hights GDPS-valid Verification!
+                        To get a new level onto the Pemonlist, it needs to have a verification video no matter the difficulty or length! Ontop of that, a player IN Hights GDPS needs to have beaten said level, otherwise it won't have a Hights GDPS-valid Verification!
                     </p>
                     <p>
                         You are allowed to set FPS bypass to any value you want, however TPS bypass is completely forbidden!
