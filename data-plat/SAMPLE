@@ -1,0 +1,30 @@
+{
+    "id": -,
+    "name": "-",
+    "author": "-",
+    "creators": ["-", "-", "-"],
+    "verifier": "-",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": 100,
+    "password": "Time to Verify",
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": "Time",
+            "hz": 300
+        },
+        {
+            "user": "-",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": "Time,
+            "hz": 0
+        },
+        {
+            "user": "-",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": "Time,
+            "hz": 0
+        }
+    ]
+}
