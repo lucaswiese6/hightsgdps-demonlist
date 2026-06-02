@@ -1,0 +1,48 @@
+{
+    "id": 250,
+    "name": "easiest",
+    "author": "EthanDemon",
+    "creators": ["EthanDemon"],
+    "verifier": "EthanDemon",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": 100,
+    "password": "0:28.212",
+    "records": [
+        {
+            "user": "Stretcho",
+            "link": "",
+            "percent": "0:20.470",
+            "hz": 0
+        },
+        {
+            "user": "MrMattizz",
+            "link": "",
+            "percent": "0:23.983",
+            "hz": 0
+        },
+        {
+            "user": "Jayayah",
+            "link": "",
+            "percent": "0:25.095",
+            "hz": 120
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": "0:28.525",
+            "hz": 60
+        },
+        {
+            "user": "goodlevelmaker",
+            "link": "",
+            "percent": "0:33.683",
+            "hz": 480
+        },
+        {
+            "user": "glodeebo",
+            "link": "",
+            "percent": "100%",
+            "hz": 0
+        }
+    ]
+}
