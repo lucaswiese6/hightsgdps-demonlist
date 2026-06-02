@@ -1,0 +1,24 @@
+{
+    "id": 509,
+    "name": "Twin temple",
+    "author": "czekoladki",
+    "creators": ["czekoladki"],
+    "verifier": "czekoladki",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "5:10",
+    "records": [
+        {
+            "user": "Anaban",
+            "link": "",
+            "percent": "8:20.029",
+            "hz": 60
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": "18:00.320",
+            "hz": 407
+        }
+    ]
+}
