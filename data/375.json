@@ -1,0 +1,23 @@
+{
+    "id": 375,
+    "name": "Kyouki Circles",
+    "author": "AmethystGD",
+    "creators": ["AmethystGD"],
+    "verifier": "AmethystGD",
+    "verification": "https://www.youtube.com/watch?v=lVkzS-00QLE",
+    "percentToQualify": 62,
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 407
+        }
+    ]
+}
