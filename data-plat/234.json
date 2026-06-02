@@ -33,6 +33,12 @@
             "hz": 0
         },
         {
+            "user": "Ava",
+            "link": "",
+            "percent": "2:??.???",
+            "hz": 0
+        },
+        {
             "user": "MrMattizz",
             "link": "",
             "percent": "2:42.858",
@@ -67,6 +73,12 @@
             "link": "",
             "percent": "4:31.150",
             "hz": 0
+        },,
+        {
+            "user": "czekoladki",
+            "link": "",
+            "percent": "4:??.???",
+            "hz": 0
         },
         {
             "user": "silverspectre",
@@ -77,7 +89,13 @@
         {
             "user": "goodlevelmaker",
             "link": "",
-            "percent": 100,
+            "percent": "100%",
+            "hz": 0
+        },
+        {
+            "user": "engoy",
+            "link": "",
+            "percent": "100%",
             "hz": 0
         }
     ]
