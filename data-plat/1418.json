@@ -1,0 +1,36 @@
+{
+    "id": 1418,
+    "name": "Staircase of Valor",
+    "author": "fregoli",
+    "creators": ["fregoli"],
+    "verifier": "fregoli",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "0:25",
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": "0:14.295",
+            "hz": 300
+        },
+        {
+            "user": "Stretcho",
+            "link": "",
+            "percent": "0:17.799",
+            "hz": 0
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": "0:19.941",
+            "hz": 288
+        },
+        {
+            "user": "BurgerFan27",
+            "link": "",
+            "percent": "0:20.141",
+            "hz": 480
+        }
+    ]
+}
