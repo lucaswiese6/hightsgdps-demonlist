@@ -1,0 +1,23 @@
+{
+    "id": 654,
+    "name": "UFO feels rainbow",
+    "author": "EthanDemon",
+    "creators": ["EthanDemon"],
+    "verifier": "EthanDemon",
+    "verification": "",
+    "percentToQualify": 73,
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "mart123",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 76,
+            "hz": 144
+        }
+    ]
+}
