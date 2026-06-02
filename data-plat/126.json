@@ -1,0 +1,30 @@
+{
+    "id": 126,
+    "name": "Beatrush",
+    "author": "EthanDemon",
+    "creators": ["EthanDemon",],
+    "verifier": "EthanDemon",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "0:23.525",
+    "records": [
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": "0:24.016",
+            "hz": 407
+        },
+        {
+            "user": "fregoli",
+            "link": "",
+            "percent": "0:24.170",
+            "hz": 0
+        },
+        {
+            "user": "Stretcho",
+            "link": "",
+            "percent": "0:26.045",
+            "hz": 0
+        }
+    ]
+}
