@@ -9,22 +9,95 @@
     "password": "0:19",
     "records": [
         {
-            "user": "OzymandiasGD",
+            "user": "Gamer Boy",
             "link": "",
-            "percent": "Time",
-            "hz": 300
+            "percent": "0:14.295",
+            "hz": 407
         },
         {
-            "user": "-",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": "Time,
+            "user": "Stretcho",
+            "link": "",
+            "percent": "0:17.699",
+            "hz": 120
+        },
+        {
+            "user": "z4uBaKa",
+            "link": "",
+            "percent": "0:27.650",
+            "hz": 360
+        },
+        {
+            "user": "Jayayah",
+            "link": "",
+            "percent": "0:32.654",
+            "hz": 120
+        },
+        {
+            "user": "mart123",
+            "link": "",
+            "percent": "0:32.912",
             "hz": 0
         },
         {
-            "user": "-",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": "Time,
+            "user": "guest670951",
+            "link": "",
+            "percent": "0:32.941",
             "hz": 0
+        },
+        {
+            "user": "EthanDemon",
+            "link": "",
+            "percent": "0:38.608",
+            "hz": 480
+        },
+        {
+            "user": "pokoi2",
+            "link": "",
+            "percent": "0:50.475",
+            "hz": 0
+        },
+        {
+            "user": "riotbutcooler",
+            "link": "",
+            "percent": "0:50.808",
+            "hz": 0
+        },
+        {
+            "user": "glodeebo",
+            "link": "",
+            "percent": "0:57.308",
+            "hz": 0
+        },
+        {
+            "user": "SethTheGamr",
+            "link": "",
+            "percent": "1:02.091",
+            "hz": 0
+        },
+        {
+            "user": "Anaban",
+            "link": "",
+            "percent": "1:12.054",
+            "hz": 60
+        },
+        {
+            "user": "fregoli",
+            "link": "",
+            "percent": "1:22.187",
+            "time": "6"
+            "hz": 60
+        },
+        {
+            "user": "LeoGDYT777",
+            "link": "",
+            "percent": "1:53.133",
+            "hz": 0
+        },
+        {
+            "user": "Fat",
+            "link": "",
+            "percent": "5:35.404",
+            "hz": 240
         }
     ]
 }
