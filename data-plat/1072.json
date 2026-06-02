@@ -1,0 +1,48 @@
+{
+    "id": 1072,
+    "name": "boxes",
+    "author": "TOAST",
+    "creators": ["TOAST"],
+    "verifier": "TOAST",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "1:07",
+    "records": [
+        {
+            "user": "EthanDemon",
+            "link": "",
+            "percent": "1:55.891",
+            "hz": 480
+        },
+        {
+            "user": "Stretcho",
+            "link": "",
+            "percent": "3:10.604",
+            "hz": 0
+        },
+        {
+            "user": "Anaban",
+            "link": "",
+            "percent": "3:14.699",
+            "hz": 60
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": "4:11.741",
+            "hz": 407
+        },
+        {
+            "user": "fregoli",
+            "link": "",
+            "percent": "6:29.504",
+            "hz": 0
+        },
+        {
+            "user": "silverspectre",
+            "link": "",
+            "percent": "100%",
+            "hz": 0
+        }
+    ]
+}
