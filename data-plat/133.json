@@ -84,7 +84,6 @@
             "user": "fregoli",
             "link": "",
             "percent": "1:22.187",
-            "time": "6",
             "hz": 60
         },
         {
@@ -98,6 +97,30 @@
             "link": "",
             "percent": "5:35.404",
             "hz": 240
+        },
+        {
+            "user": "Orox",
+            "link": "",
+            "percent": "100%",
+            "hz": 60
+        },
+        {
+            "user": "goodlevelmaker",
+            "link": "",
+            "percent": "100%",
+            "hz": 480
+        },
+        {
+            "user": "AVA",
+            "link": "",
+            "percent": "100%",
+            "hz": 9
+        },
+        {
+            "user": "czekoladki",
+            "link": "",
+            "percent": "100%",
+            "hz": 0
         }
     ]
 }
