@@ -1,0 +1,42 @@
+{
+    "id": 1314,
+    "name": "Mario Dash Kaizo",
+    "author": "LeoGDYT777",
+    "creators": ["LeoGDYT777"],
+    "verifier": "LeoGDYT777",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "0:17",
+    "records": [
+        {
+            "user": "fregoli",
+            "link": "",
+            "percent": "0:16.699",
+            "hz": 60
+        },
+        {
+            "user": "jellybees",
+            "link": "",
+            "percent": "0:21.712",
+            "hz": 0
+        },
+        {
+            "user": "Stretcho",
+            "link": "",
+            "percent": "0:33.512",
+            "hz": 0
+        },
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": "0:37.645",
+            "hz": 300
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": "1:15.254",
+            "hz": 407
+        }
+    ]
+}
