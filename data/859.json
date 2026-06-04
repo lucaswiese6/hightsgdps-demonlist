@@ -1,0 +1,17 @@
+{
+    "id": 859,
+    "name": "harling club",
+    "author": "fom",
+    "creators": ["fom"],
+    "verifier": "fom",
+    "verification": "",
+    "percentToQualify": 79,
+    "records": [
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
