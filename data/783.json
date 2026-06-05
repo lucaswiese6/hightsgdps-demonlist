@@ -8,16 +8,16 @@
     "percentToQualify": 64,
     "records": [
         {
-            "user": "Gamer Boy",
-            "link": "",
-            "percent": 83,
-            "hz": 407
-        },
-        {
             "user": "Toastisss",
             "link": "https://youtu.be/Kh1d5hZ-ZBQ",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "https://www.youtube.com/watch?v=ivGH_DlqmKs",
+            "percent": 100,
+            "hz": 407
         }
     ]
 }
