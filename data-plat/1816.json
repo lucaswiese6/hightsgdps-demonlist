@@ -1,0 +1,18 @@
+{
+    "id": 1816,
+    "name": "Apoplexy Tower",
+    "author": "fregoli",
+    "creators": ["fregoli"],
+    "verifier": "fregoli",
+    "verification": "https://youtu.be/SFOfvxrr8a0",
+    "percentToQualify": 100,
+    "password": "0:32",
+    "records": [
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": "2:55.483",
+            "hz": 407
+        }
+    ]
+}
