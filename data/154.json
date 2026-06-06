@@ -1,0 +1,95 @@
+{
+    "id": 154,
+    "name": "Guests wave II",
+    "author": "guest670951",
+    "creators": ["guest670951"],
+    "verifier": "guest670951",
+    "verification": "",
+    "percentToQualify": 83,
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Gamer boy",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ColaMutti",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "silverspectre",
+            "link": "",
+            "percent": 0,
+            "hz": 144
+        },
+        {
+            "user": "Leo",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "lool",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "AmethstGD",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "BurgerFan27",
+            "link": "",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "fregoli",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Stevie",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "pokoi2",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Fat",
+            "link": "",
+            "percent": 94,
+            "hz": 240
+        },
+        {
+            "user": "maple",
+            "link": "",
+            "percent": 94,
+            "hz": 180
+        },
+        {
+            "user": "mart123",
+            "link": "",
+            "percent": 93,
+            "hz": 144
+        }
+    ]
+}
