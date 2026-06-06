@@ -1,0 +1,23 @@
+{
+    "id": 1619,
+    "name": "grandat",
+    "author": "fom",
+    "creators": ["fom"],
+    "verifier": "Gamer Boy",
+    "verification": "",
+    "percentToQualify": 58,
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "fom",
+            "link": "",
+            "percent": 100,
+            "hz": 200
+        },
+    ]
+}
