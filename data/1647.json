@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/74oZI2ww9Pk",
     "percentToQualify": 64,
     "records": [
+        {
+            "user": "EthanDemon",
+            "link": "https://cdn.discordapp.com/attachments/1306358140706750556/1512938411995172984/you_gotta_trust_me_on_this_one.mp4?ex=6a25e932&is=6a2497b2&hm=73f22b1fb9a95851bc39ed0f6d6de22aac9d218f4a788cec0522ef33116938dc&",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
