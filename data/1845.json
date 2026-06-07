@@ -1,0 +1,17 @@
+{
+    "id": 1845,
+    "name": "where are you going",
+    "author": "fregoli",
+    "creators": ["fregoli"],
+    "verifier": "fregoli",
+    "verification": "",
+    "percentToQualify": 73,
+    "records": [
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 407
+        }
+    ]
+}
