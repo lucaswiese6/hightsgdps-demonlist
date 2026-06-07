@@ -54,6 +54,12 @@
             "link": "https://www.youtube.com/watch?v=yex8RfRPjL8",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "DCV4",
+            "link": "https://www.youtube.com/watch?v=D2elKKs-xUE",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
