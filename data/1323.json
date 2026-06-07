@@ -3,10 +3,22 @@
     "name": "DANCE FLOOR",
     "author": "fregoli",
     "creators": ["fregoli"],
-    "verifier": "OzymandiasGD",
+    "verifier": "fregoli",
     "verification": "",
     "percentToQualify": 81,
     "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "DCV4",
+            "link": "https://www.youtube.com/watch?v=b_XxD40bFkI",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
 
