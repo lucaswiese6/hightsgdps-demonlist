@@ -74,16 +74,16 @@
             "hz": 0
         },
         {
+            "user": "maple",
+            "link": "",
+            "percent": 100,
+            "hz": 180
+        },
+        {
             "user": "Fat",
             "link": "",
             "percent": 94,
             "hz": 240
-        },
-        {
-            "user": "maple",
-            "link": "",
-            "percent": 94,
-            "hz": 180
         },
         {
             "user": "mart123",
