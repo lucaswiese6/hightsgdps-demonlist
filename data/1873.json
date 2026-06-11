@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/eSnf4caFDak",
     "percentToQualify": 67,
     "records": [
+        {
+            "user": "Orox",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
     ]
 }
