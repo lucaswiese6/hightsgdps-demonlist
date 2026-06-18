@@ -1,0 +1,23 @@
+{
+    "id": 792,
+    "name": "Yea Sure",
+    "author": "Gamer Boy",
+    "creators": ["Gamer Boy"],
+    "verifier": "Gamer Boy",
+    "verification": "",
+    "percentToQualify": 87,
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "BurgerFan27",
+            "link": "",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
