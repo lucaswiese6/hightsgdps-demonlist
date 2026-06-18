@@ -1,0 +1,41 @@
+{
+    "id": 330,
+    "name": "Sigma Challege",
+    "author": "Gamer Boy",
+    "creators": ["Gamer Boy"],
+    "verifier": "Gamer Boy",
+    "verification": "",
+    "percentToQualify": 75,
+    "records": [
+        {
+            "user": "goodlevelmaker",
+            "link": "",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "SethTheGamr",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        },,
+        {
+            "user": "NijjerNijjer",
+            "link": "",
+            "percent": 100,
+            "hz": 75
+        }
+        {
+            "user": "Anaban",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
