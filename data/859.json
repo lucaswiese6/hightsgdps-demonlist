@@ -3,15 +3,9 @@
     "name": "harling club",
     "author": "fom",
     "creators": ["fom"],
-    "verifier": "fom",
+    "verifier": "Gamer Boy",
     "verification": "",
     "percentToQualify": 79,
     "records": [
-        {
-            "user": "Gamer Boy",
-            "link": "",
-            "percent": 100,
-            "hz": 288
-        }
     ]
 }
