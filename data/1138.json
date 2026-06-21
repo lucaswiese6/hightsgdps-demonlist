@@ -1,0 +1,17 @@
+{
+    "id": 1138,
+    "name": "pp",
+    "author": "Rhyy",
+    "creators": ["Rhyy"],
+    "verifier": "Rhyy",
+    "verification": "",
+    "percentToQualify": 73,
+    "records": [
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
