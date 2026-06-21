@@ -1,0 +1,23 @@
+{
+    "id": 1094,
+    "name": "Dark Matter",
+    "author": "Fat",
+    "creators": ["Fat"],
+    "verifier": "Rhyy",
+    "verification": "",
+    "percentToQualify": 77,
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 288
+        },
+    ]
+}
