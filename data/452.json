@@ -1,0 +1,41 @@
+{
+    "id": 452,
+    "name": "Flow",
+    "author": "glodeebo",
+    "creators": ["glodeebo"],
+    "verifier": "fregoli",
+    "verification": "https://youtu.be/grO_Ug5cjis",
+    "percentToQualify": 63,
+    "records": [
+        {
+            "user": "Gamer Boy",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 407
+        },
+        {
+            "user": "Jayayah",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 0,
+            "hz": 0
+        },
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "BurgerFan27",
+            "link": "",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Stevie",
+            "link": "",
+            "percent": 100,
+            "hz": 246
+        }
+    ]
+}
