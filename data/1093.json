@@ -1,0 +1,35 @@
+{
+    "id": 1093,
+    "name": "Solar Balls",
+    "author": "Fat",
+    "creators": ["Fat"],
+    "verifier": "Fat",
+    "verification": "",
+    "percentToQualify": 12,
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "BurgerFan27",
+            "link": "",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Stevie",
+            "link": "",
+            "percent": 100,
+            "hz": 246
+        }
+    ]
+}
