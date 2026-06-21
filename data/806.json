@@ -1,0 +1,23 @@
+{
+    "id": 806,
+    "name": "Espy",
+    "author": "Orox",
+    "creators": ["Orox"],
+    "verifier": "Orox",
+    "verification": "",
+    "percentToQualify": 84,
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 0,
+            "hz": 407
+        }
+    ]
+}
