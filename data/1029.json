@@ -1,0 +1,29 @@
+{
+    "id": 1029,
+    "name": "sky monsters",
+    "author": "EthanDemon",
+    "creators": ["EthanDemon"],
+    "verifier": "EthanDemon",
+    "verification": "",
+    "percentToQualify": 84,
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 10,
+            "hz": 288
+        },
+        {
+            "user": "Toastisss",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
