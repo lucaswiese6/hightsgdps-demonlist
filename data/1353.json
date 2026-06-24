@@ -4,9 +4,15 @@
     "author": "OzymandiasGD",
     "creators": ["OzymandiasGD"],
     "verifier": "OzymandiasGD",
-    "verification": "",
+    "verification": "https://youtu.be/0Pw0uTy_BtY",
     "percentToQualify": 67,
     "records": [
+        {
+            "user": "Stevie",
+            "link": "https://youtu.be/0Pw0uTy_BtY",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "Gamer Boy",
             "link": "",
