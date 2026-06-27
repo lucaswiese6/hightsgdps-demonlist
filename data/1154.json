@@ -16,8 +16,9 @@
         {
             "user": "Gamer Boy",
             "link": "",
-            "percent": 70,
+            "percent": 100,
             "hz": 288
+            "attempts": 11176
         }
     ]
 }
