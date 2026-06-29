@@ -3,8 +3,51 @@
     "name": "Classical VIP",
     "author": "guest670951",
     "creators": ["guest670951"],
-    "verifier": "",
+    "verifier": "guest670951",
     "verification": "",
-    "percentToQualify": 100,
-    "password": "Not Copyable",
-    "records": 
+    "percentToQualify": 79,
+    "records": [
+        {
+            "user": "Orox",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "z4uBaKa",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "erer",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "SethTheGamr",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 407
+        },
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "maple",
+            "link": "",
+            "percent": 100,
+            "hz": 180
+        }
+    ]
+}
