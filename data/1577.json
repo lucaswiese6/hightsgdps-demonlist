@@ -1,0 +1,35 @@
+{
+    "id": 1577,
+    "name": "stripped birch wood",
+    "author": "fregoli",
+    "creators": ["fregoli"],
+    "verifier": "fregoli",
+    "verification": "",
+    "percentToQualify": 81,
+    "records": [
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "AmethystGD",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "BurgerFan27",
+            "link": "",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
