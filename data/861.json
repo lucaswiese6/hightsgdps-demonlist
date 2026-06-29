@@ -1,10 +1,17 @@
 {
     "id": 861,
-    "name": "PRISMAL FEAR",
+    "name": "primal fear",
     "author": "fom",
     "creators": ["fom"],
-    "verifier": "",
+    "verifier": "fom",
     "verification": "",
-    "percentToQualify": 100,
-    "password": "Not Copyable",
-    "records": 
+    "percentToQualify": 80,
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
