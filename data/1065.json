@@ -3,8 +3,15 @@
     "name": "The Nighty II",
     "author": "CheifG",
     "creators": ["CheifG"],
-    "verifier": "",
+    "verifier": "CheifG",
     "verification": "",
-    "percentToQualify": 100,
-    "password": "Not Copyable",
-    "records":
+    "percentToQualify": 76,
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
