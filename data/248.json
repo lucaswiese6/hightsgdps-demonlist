@@ -22,7 +22,7 @@
         {
             "user": "mart123",
             "link": "",
-            "percent": 0,
+            "percent": 100,
             "hz": 144
         },
         {
@@ -34,7 +34,7 @@
         {
             "user": "Gamer Boy",
             "link": "",
-            "percent": 0,
+            "percent": 100,
             "hz": 407
         }
     ]
