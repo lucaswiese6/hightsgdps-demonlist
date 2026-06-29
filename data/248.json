@@ -3,8 +3,39 @@
     "name": "B R A I N R O T",
     "author": "EthanDemon",
     "creators": ["EthanDemon"],
-    "verifier": "",
+    "verifier": "EthanDemon",
     "verification": "",
-    "percentToQualify": 100,
-    "password": "Not Copyable",
-    "records": 
+    "percentToQualify": 76,
+    "records": [
+        {
+            "user": "Orox",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "goodlevelmaker",
+            "link": "",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "mart123",
+            "link": "",
+            "percent": 0,
+            "hz": 144
+        },
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 0,
+            "hz": 407
+        }
+    ]
+}
