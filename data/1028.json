@@ -6,4 +6,12 @@
     "verifier": "Gamer Boy",
     "verification": "",
     "percentToQualify": 63,
-    "records": 
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+} 
