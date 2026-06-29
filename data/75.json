@@ -1,0 +1,24 @@
+{
+    "id": 75,
+    "name": "Thick of It",
+    "author": "Gamer Boy",
+    "creators": ["Gamer Boy"],
+    "verifier": "Gamer Boy",
+    "verification": "",
+    "percentToQualify": 76,
+    "password": "1237",
+    "records": [
+        {
+            "user": "Orox",
+            "link": "",
+            "percent": 0,
+            "hz": 60
+        },
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
