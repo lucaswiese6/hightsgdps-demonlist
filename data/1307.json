@@ -1,11 +1,24 @@
 {
     "id": 1307,
-    "name": "oroborro",
+    "name": "orborro",
     "author": "jellybees",
     "creators": ["jellybees"],
-    "verifier": "",
+    "verifier": "jellybees",
     "verification": "",
-    "percentToQualify": 100,
-    "password": "Not Copyable",
-    "records": 
+    "percentToQualify": 73,
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 407
+        }
+    ]
+}
 
