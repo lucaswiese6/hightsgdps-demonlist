@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/FFZNtSY77_k",
     "percentToQualify": 75,
     "records": [
+        {
+            "user": "NonagonGD",
+            "link": "",
+            "percent": "9%-100",
+            "hz": 240
+        }
     ]
 }
