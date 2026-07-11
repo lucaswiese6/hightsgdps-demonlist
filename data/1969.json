@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/yxvmUujLCjs?si=m5KgPEcZBzj_cJym",
     "percentToQualify": 65,
     "records": [
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 288
+        }
     ]
 }
