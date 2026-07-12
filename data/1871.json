@@ -1,0 +1,29 @@
+{
+    "id": 1871,
+    "name": "XOEVILXOEVILXO",
+    "author": "fregoli",
+    "creators": ["fregoli"],
+    "verifier": "fregoli",
+    "verification": "https://youtu.be/Iw7-R6KPp_s",
+    "percentToQualify": 72,
+    "records": [
+        {
+            "user": "Ciphen",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "xee123",
+            "link": "",
+            "percent": 0,
+            "hz": 0
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "https://youtu.be/Iw7-R6KPp_s",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
