@@ -1,0 +1,17 @@
+{
+    "id": 403,
+    "name": "Raise Your Cataclysm",
+    "author": "Jayayah",
+    "creators": ["Jayayah"],
+    "verifier": "Jayayah",
+    "verification": "https://www.youtube.com/watch?v=1HE1JqDGx2k",
+    "percentToQualify": 64,
+    "records": [
+        {
+            "user": "OzymandiasGD",
+            "link": "",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
