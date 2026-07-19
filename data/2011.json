@@ -1,0 +1,17 @@
+{
+    "id": 2011,
+    "name": "wizzy wave",
+    "author": "Toastisss",
+    "creators": ["Toastisss"],
+    "verifier": "Toastisss",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": 61,
+    "records": [
+        {
+            "user": "jayxofc",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
