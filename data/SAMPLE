@@ -18,7 +18,8 @@
             "user": "-",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 0,
-            "hz": 0
+            "hz": 0,
+            "mobile": true
         },
         {
             "user": "-",
