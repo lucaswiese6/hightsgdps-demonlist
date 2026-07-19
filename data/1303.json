@@ -29,7 +29,8 @@
             "user": "Anaban",
             "link": "",
             "percent": 65,
-            "hz": 60
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
