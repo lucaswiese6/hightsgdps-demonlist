@@ -1,0 +1,23 @@
+{
+    "id": 1953,
+    "name": "hehehehaw Rebirth",
+    "author": "Stevie",
+    "creators": ["Stevie", "BurgerFan27"],
+    "verifier": "BurgerFan27",
+    "verification": "https://www.youtube.com/watch?v=8tnISesFVR8",
+    "percentToQualify": 62,
+    "records": [
+        {
+            "user": "jayxofc",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 65,
+            "hz": 288,
+        }
+    ]
+}
