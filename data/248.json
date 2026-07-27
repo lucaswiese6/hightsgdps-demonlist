@@ -36,6 +36,13 @@
             "link": "",
             "percent": 100,
             "hz": 407
+        },
+        {
+            "user": "SethTheGamr",
+            "link": "https://youtu.be/QVDBuv4DZss?is=MooWBM_O3zYQXlHu",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
