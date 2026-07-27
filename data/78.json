@@ -48,6 +48,13 @@
             "link": "",
             "percent": 100,
             "hz": 180
+        },
+        {
+            "user": "Anaban",
+            "link": "https://youtu.be/Qeqi4ZyAcnk",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
