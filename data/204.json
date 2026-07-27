@@ -1,0 +1,17 @@
+{
+    "id": 204,
+    "name": "Classical VIP (HealerGD)",
+    "author": "HealerGD",
+    "creators": ["HealerGD"],
+    "verifier": "OzymandiasGD",
+    "verification": "https://www.youtube.com/watch?v=a-B8V_4CTLI",
+    "percentToQualify": 65,
+    "records": [
+        {
+            "user": "Toastisss",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
