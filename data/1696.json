@@ -2,10 +2,16 @@
     "id": 1696,
     "name": "Sky machine II",
     "author": "shadium37",
-    "creators": ["shadium37"],
+    "creators": ["shadium37","bazzie"],
     "verifier": "Toastisss",
     "verification": "https://youtu.be/LUwlPypEXPs",
     "percentToQualify": 72,
     "records": [
+        {
+            "user": "bazzie",
+            "link": "https://cdn.discordapp.com/attachments/1531879354642993192/1531879360389447881/GeometryDash.exe_2026.07.28_-_21.12.59.06.DVR_online-video-cutter.com.mp4?ex=6a6ad154&is=6a697fd4&hm=a0fa8a1bb355dce677aa878ef3df1a94480cd44461d0958203b988d5950c5559&",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
