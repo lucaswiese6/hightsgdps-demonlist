@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/FFZNtSY77_k",
     "percentToQualify": 75,
     "records": [
+        {
+            "user": "sirfilo",
+            "link": "https://youtu.be/XdvJIOPaGJU",
+            "percent": 100,
+            "hz": "360"
+        }
     ]
 }
