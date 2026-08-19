@@ -1,0 +1,17 @@
+{
+    "id": 1890,
+    "name": "Wavemode 2",
+    "author": "Gamer Boy",
+    "creators": ["Gamer Boy"],
+    "verifier": "Gamer Boy",
+    "verification": "https://youtu.be/22mUlasigRY",
+    "percentToQualify": 70,
+    "records": [
+        {
+            "user": "SolidSnake",
+            "link": "",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
