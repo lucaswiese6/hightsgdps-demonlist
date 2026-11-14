@@ -1,0 +1,42 @@
+{
+    "id": 1810,
+    "name": "Fregoli Room Trails",
+    "author": "fregoli",
+    "creators": ["fregoli"],
+    "verifier": "fregoli",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "1:57.037",
+    "records": [
+        {
+            "user": Gamer Boy",
+            "link": "",
+            "percent": "1:47.487",
+            "hz": 288
+        },
+        {
+            "user": "Stretcho",
+            "link": "",
+            "percent": "2:13.099",
+            "hz": 120
+        },
+        {
+            "user": "Maxson",
+            "link": "",
+            "percent": "2:51.874",
+            "hz": 120
+        },
+        {
+            "user": "BurgerFan27",
+            "link": "",
+            "percent": "2:52.295",
+            "hz": 144
+        },
+        {
+            "user": "rusim2412",
+            "link": "",
+            "percent": "2:54.258",
+            "hz": 0
+        }
+    ]
+}
