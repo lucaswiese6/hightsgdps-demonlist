@@ -1,0 +1,18 @@
+{
+    "id": 2235,
+    "name": "hilkomani X",
+    "author": "BurgerFan27",
+    "creators": ["LeoGDYT77", "BurgerFan27"],
+    "verifier": "BurgerFan27",
+    "verification": "https://cdn.discordapp.com/attachments/1571716848763011072/1571716851849756713/Geometry_Dash_2026.11.15_-_21.37.27.27.DVR_-_Trim.mp4?ex=6afdb922&is=6afc67a2&hm=27cfbbd5efa0a01f753ee0deac9c2f4ee5adf2b9baf9a8a049916f0e5861632c&",
+    "percentToQualify": 33,
+    "password": "1877",
+    "records": [
+        {
+            "user": "Gamer Boy",
+            "link": "",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
