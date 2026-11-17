@@ -30,6 +30,12 @@
             "link": "https://www.youtube.com/watch?v=b-gBgfTlTSk",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Stevie",
+            "link": "https://cdn.discordapp.com/attachments/1570298402757943377/1570298405119594527/timing_challenge.mp4?ex=6afd2d5a&is=6afbdbda&hm=6c0d911c37e525c1bbb9f0c54412a62ad81a0adffca8da0541492cd88a02555e&",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
