@@ -36,6 +36,12 @@
             "link": "https://www.youtube.com/watch?v=F5qoGlD40lk",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Stevie",
+            "link": "https://cdn.discordapp.com/attachments/1569509843285442611/1569509850894049341/friday_night_lights.mp4?ex=6afd9ab4&is=6afc4934&hm=8a54767fa9e8614986a301b48f18396771d40a1c5aef3c68a28eb0de0513a295&",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
