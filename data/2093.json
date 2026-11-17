@@ -8,5 +8,11 @@
     "percentToQualify": "68",
     "password": "123457",
     "records": [
+        {
+            "user": "ButgerFan27",
+            "link": "https://www.youtube.com/watch?v=yUazgrhZMsY",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
